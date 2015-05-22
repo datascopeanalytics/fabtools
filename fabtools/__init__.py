@@ -3,6 +3,7 @@ import fabtools.arch
 import fabtools.cron
 import fabtools.deb
 import fabtools.disk
+import fabtools.elasticsearch
 import fabtools.files
 import fabtools.git
 import fabtools.group
